@@ -4,12 +4,13 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://pravigo.github.io/atom.xml" rel="self"/>
   <link href="http://pravigo.github.io/"/>
-  <updated>2014-07-19T19:37:36+01:00</updated>
+  <updated>2014-07-19T19:46:36+01:00</updated>
   <id>http://pravigo.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
   </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
