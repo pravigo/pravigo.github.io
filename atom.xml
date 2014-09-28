@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://pravigo.github.io/atom.xml" rel="self"/>
   <link href="http://pravigo.github.io/"/>
-  <updated>2014-07-19T20:33:11+01:00</updated>
+  <updated>2014-09-29T00:29:27+01:00</updated>
   <id>http://pravigo.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[World cup test 2]]></title>
+    <link href="http://pravigo.github.io/blog/2014/08/19/world-cup-test3/"/>
+    <updated>2014-08-19T18:57:50+01:00</updated>
+    <id>http://pravigo.github.io/blog/2014/08/19/world-cup-test3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[World cup test 2]]></title>
+    <link href="http://pravigo.github.io/blog/2014/07/19/world-cup-tes2t/"/>
+    <updated>2014-07-19T18:58:50+01:00</updated>
+    <id>http://pravigo.github.io/blog/2014/07/19/world-cup-tes2t</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[World cup test]]></title>

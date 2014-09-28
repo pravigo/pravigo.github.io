@@ -3,6 +3,18 @@
   
   
   <url>
+    <loc>http://pravigo.github.io/blog/2014/08/19/world-cup-test3/</loc>
+    <lastmod>2014-08-19T18:57:50+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://pravigo.github.io/blog/2014/07/19/world-cup-tes2t/</loc>
+    <lastmod>2014-07-19T18:58:50+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://pravigo.github.io/blog/2014/07/19/world-cup-test/</loc>
     <lastmod>2014-07-19T18:57:50+01:00</lastmod>
     <priority>0.8</priority>
@@ -11,21 +23,21 @@
   
   <url>
     <loc>http://pravigo.github.io/blog/archives/</loc>
-    <lastmod>2014-07-19T20:33:11+01:00</lastmod>
+    <lastmod>2014-09-29T00:29:27+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://pravigo.github.io/blog/</loc>
-    <lastmod>2014-07-19T20:33:11+01:00</lastmod>
+    <lastmod>2014-09-29T00:29:27+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://pravigo.github.io/</loc>
-    <lastmod>2014-07-19T20:33:11+01:00</lastmod>
+    <lastmod>2014-09-29T00:29:27+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
